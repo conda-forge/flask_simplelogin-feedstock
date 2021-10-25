@@ -23,6 +23,7 @@ requirements:
     - click >=8.0.1,<9.0.0
     - flask >=0.12
     - flask-wtf >=0.15.1,<0.16.0
+    - poetry
     - python >=3.6
     - wtforms >=2.1
 
