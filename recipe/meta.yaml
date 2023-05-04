@@ -28,7 +28,6 @@ requirements:
 
 test:
   imports:
-    - example
     - flask_simplelogin
   commands:
     - pip check
